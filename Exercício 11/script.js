@@ -5,8 +5,6 @@ var gato = {
     color: 'Amarelo'
 }
 
-Object.defineProperty(gato, 'name', { configurable: false })
+Object.defineProperty(gato, 'name', { enumerable: false })
 
-delete gato.name
-
-display(gato.name)
+display(gato['name'])

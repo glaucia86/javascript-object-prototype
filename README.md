@@ -23,7 +23,7 @@ Exercícios desenvolvidos durante o estudo:
 
 ##### 8) [Usando o Atributo - Writable](https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%208)
 
-##### 9) [Usando o Atributo - Enumerable]()
+##### 9) [Usando o Atributo - Enumerable](https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%209)
 
 ##### 10) [Usando o Atributo - Configurable]()
 
