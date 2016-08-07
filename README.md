@@ -21,4 +21,10 @@ Exercícios desenvolvidos durante o estudo:
 
 ##### 7) [Usando Descrição de Propriedades em JavaScript] (https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%207)
 
-##### 8) [Usando o Atributo - Writable]()
+##### 8) [Usando o Atributo - Writable](https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%208)
+
+##### 9) [Usando o Atributo - Enumerable]()
+
+##### 10) [Usando o Atributo - Configurable]()
+
+##### 11) [Usando os Getters e Setters]()
