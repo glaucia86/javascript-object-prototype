@@ -7,4 +7,6 @@ vantagem do poder do JavaScript.
 
 Exercícios desenvolvidos durante o estudo:
 
-##### 1) [Usando Objetos Literais para Criar Objetos em JavaScript] ()
+##### 1) [Usando Objetos Literais para Criar Objetos em JavaScript] (https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%201)
+
+##### 2) [JavaScript de uma Maneira mais Dinâmica]()
