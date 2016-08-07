@@ -9,4 +9,6 @@ Exercícios desenvolvidos durante o estudo:
 
 ##### 1) [Usando Objetos Literais para Criar Objetos em JavaScript] (https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%201)
 
-##### 2) [JavaScript de uma Maneira mais Dinâmica]()
+##### 2) [Natureza Dinâmica em JavaScript](https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%202)
+
+##### 3) [Usando Funções Construtoras para Criar Objetos em JavaScript]()
