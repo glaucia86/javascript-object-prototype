@@ -11,4 +11,6 @@ Exercícios desenvolvidos durante o estudo:
 
 ##### 2) [Natureza Dinâmica em JavaScript](https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%202)
 
-##### 3) [Usando Funções Construtoras para Criar Objetos em JavaScript]()
+##### 3) [Usando Funções Construtoras para Criar Objetos em JavaScript](https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%203)
+
+##### 4) [Usando Object.create() para Criar Objetos em JavaScript]()
