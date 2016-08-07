@@ -19,4 +19,6 @@ Exercícios desenvolvidos durante o estudo:
 
 ##### 6) [Usando Bracket Notation para Acessar Propriedades em JavaScript] (https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%206)
 
-##### 7) [Usando Descrição de Propriedades em JavaScript] ()
+##### 7) [Usando Descrição de Propriedades em JavaScript] (https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%207)
+
+##### 8) [Usando o Atributo - Writable]()
