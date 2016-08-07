@@ -13,4 +13,6 @@ Exercícios desenvolvidos durante o estudo:
 
 ##### 3) [Usando Funções Construtoras para Criar Objetos em JavaScript](https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%203)
 
-##### 4) [Usando Object.create() para Criar Objetos em JavaScript]()
+##### 4) [Usando Object.create() para Criar Objetos em JavaScript](https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%204)
+
+##### 5) [Usando Classes em ECMAScript 6 para Criar Objetos em JavaScript] ()

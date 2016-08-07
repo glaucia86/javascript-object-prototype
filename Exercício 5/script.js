@@ -1,18 +1,17 @@
 'use strict';
 
-var gato = Object.create(Object.prototype, {
-    name: {
-        value: 'Garfield',
-        enumerable: true,
-        writable: true,
-        configurable: true
-    },
-    color: {
-        value: 'Amarelo',
-        enumerable: true,
-        writable: true,
-        configurable: true
+class Gato {
+    constructor(name, color) {
+        this.name = name
+        this.color = color
     }
-})
+
+    falar() {
+        display('Miaaaaauuuu!')
+    }
+}
+
+var gato = new Gato('Garfield', 'Amarelo')
 
 display(gato)
+gato.falar()
