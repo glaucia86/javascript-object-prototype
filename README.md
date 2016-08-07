@@ -17,4 +17,6 @@ Exercícios desenvolvidos durante o estudo:
 
 ##### 5) [Usando Classes em ECMAScript 6 para Criar Objetos em JavaScript] (https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%205)
 
-##### 6) [Usando Bracket Notation para Acessar Propriedades em JavaScript] ()
+##### 6) [Usando Bracket Notation para Acessar Propriedades em JavaScript] (https://github.com/glaucia86/javascript-object-prototype/tree/master/Exerc%C3%ADcio%206)
+
+##### 7) [Usando Descrição de Propriedades em JavaScript] ()

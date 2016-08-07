@@ -5,6 +5,4 @@ var gato = {
     color: 'Amarelo'
 }
 
-gato['Olho do Gato'] = 'Verde'
-
-display(gato['Olho do Gato']);
+display(Object.getOwnPropertyDescriptor(gato, 'name'));
